@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AppCoin</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

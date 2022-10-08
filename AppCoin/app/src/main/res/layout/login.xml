@@ -12,7 +12,7 @@
         android:layout_width="0dp"
         android:layout_height="50dp"
         android:layout_marginStart="40dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="56dp"
         android:layout_marginEnd="40dp"
         android:background="@drawable/backgroud_edittext"
         android:ems="10"
@@ -23,7 +23,7 @@
         android:textColorHint="#BDB8B8"
         android:textSize="16dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
@@ -49,16 +49,17 @@
         android:layout_marginEnd="40dp"
         android:background="@drawable/backgroud_edittext"
         android:ems="10"
-        android:hint="Enter your password"
+        android:hint="@string/enter_your_password"
         android:inputType="textPersonName"
         android:padding="8dp"
         android:textColor="#FFFFFF"
         android:textColorHint="#BDB8B8"
-        android:textSize="16dp"
+        android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText_email" />
+        app:layout_constraintTop_toBottomOf="@+id/editText_email"
+        tools:ignore="TextFields" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button_back"
@@ -81,7 +82,7 @@
         android:layout_marginTop="60dp"
         android:layout_marginEnd="40dp"
         android:background="@drawable/custombtn_login"
-        android:text="LOGIN"
+        android:text="login"
         android:textColor="#FFFFFF"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -96,7 +97,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="44dp"
-        android:text="Forgot Password"
+        android:text="@string/forgot_password"
         android:textColor="#BDB8B8"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
