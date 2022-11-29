@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358710815323",
+    "project_id": "ltdd-kt3",
+    "storage_bucket": "ltdd-kt3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358710815323:android:724db9ca79c0f68b66ad7e",
+        "android_client_info": {
+          "package_name": "com.example.kt3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358710815323-m9me1eek42siugatctu74eds8s7ao9s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh87Y3g2auo245O1X8WtGTxVFnIWNqCII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358710815323-m9me1eek42siugatctu74eds8s7ao9s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
