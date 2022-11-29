@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e882bdf0-556e-4a80-9b10-77545adef17c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/androidTest/java/com/example/appcoin/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/java/com/example/appcoin/ActivityCoinWallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/java/com/example/appcoin/ActivityHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/java/com/example/appcoin/ActivityListCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/java/com/example/appcoin/ActivityLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/java/com/example/appcoin/ActivityProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/java/com/example/appcoin/ActivitySignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/java/com/example/appcoin/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/java/com/example/appcoin/Portfolio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/java/com/example/appcoin/PortfolioAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/java/com/example/appcoin/coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/java/com/example/appcoin/coinAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable-v24/backgrouddrugs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable-v24/bitcoin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable-v24/custom_btnback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable-v24/custom_btnlogn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable-v24/custom_btnsignup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable-v24/ethereum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable-v24/ic_lock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable-v24/ic_person.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable/custom_liscoin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable/ic_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable/ic_baseline_arrow_drop_up_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/layout/activity_coin_wallet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/layout/activity_list_coin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/layout/item_recyclerview_doc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/layout/item_recyclerview_ngan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/test/java/Balance/coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/test/java/Balance/coinAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/test/java/com/example/appcoin/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/test/java/com/example/appcoin/Portfolio1/portfolio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/app/src/test/java/com/example/appcoin/Portfolio1/portfolioAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/androidTest/java/com/example/appcoin3/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/java/com/example/appcoin3/ActivityHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/java/com/example/appcoin3/ActivityLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/java/com/example/appcoin3/ActivitySignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/java/com/example/appcoin3/ListCoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/java/com/example/appcoin3/ListCoinAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/java/com/example/appcoin3/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/backgrouddrugs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/bitcoin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/custom_btnback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/custom_btnlogn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/custom_btnsignup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/custom_liscoin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/custom_wallet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/ethereum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/ic_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/ic_baseline_arrow_drop_up_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/ic_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/ic_lock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/ic_person.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/ic_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/drawable/round_corner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/layout/item_recyclerview_horizontal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/layout/item_recyclerview_vertical.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/menu/item_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/app/src/test/java/com/example/appcoin3/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppCoin3/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App_Fish_2050531200130/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App_Fish_2050531200130/app/src/main/java/com/example/app_fish_2050531200130/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App_Fish_2050531200130/app/src/main/java/com/example/app_fish_2050531200130/HomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App_Fish_2050531200130/app/src/main/java/com/example/app_fish_2050531200130/MyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App_Fish_2050531200130/app/src/main/java/com/example/app_fish_2050531200130/SignupActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App_Fish_2050531200130/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App_Fish_2050531200130/app/src/main/res/layout/activity_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../App_Fish_2050531200130/app/src/main/res/layout/item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Appcoin/app/src/main/java/com/example/appcoin/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Appcoin/app/src/main/java/com/example/appcoin/SignUpActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Appcoin/app/src/main/res/drawable-v24/backgrouddrugs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Appcoin/app/src/main/res/drawable/custom_btnback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Appcoin/app/src/main/res/drawable/custom_btnlogn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Appcoin/app/src/main/res/drawable/custom_btnsignup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Appcoin/app/src/main/res/drawable/ic_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Appcoin/app/src/main/res/drawable/ic_lock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Appcoin/app/src/main/res/drawable/ic_person.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Appcoin/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Appcoin/app/src/main/res/layout/activity_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT10_SQLITE/app/src/main/assets/QuanLy_Computer.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT10_SQLITE/app/src/main/java/com/example/bt10_sqlite/ActivityCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT10_SQLITE/app/src/main/java/com/example/bt10_sqlite/database/database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT10_SQLITE/app/src/main/java/com/example/bt10_sqlite/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT10_SQLITE/app/src/main/res/layout/activity_category.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT10_SQLITE/app/src/main/res/layout/dialogexit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kt3/CoursesLVAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/kt3/DataModal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/image_lv_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/java/com/example/phamvandat_2050531200130_kt/HomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/java/com/example/phamvandat_2050531200130_kt/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/java/com/example/phamvandat_2050531200130_kt/SignupActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/res/drawable/custom_btn_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/res/drawable/custom_btn_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/res/drawable/custom_rim_btnback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/res/drawable/ic_back_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/res/drawable/ic_lock_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/res/drawable/ic_person_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhamVanDat_2050531200130_KT/app/src/main/res/layout/activity_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recyclerview/app/src/main/java/com/example/recyclerview/book/BookAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recyclerview/app/src/main/java/com/example/recyclerview/book/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recyclerview/app/src/main/res/drawable/anh1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recyclerview/app/src/main/res/drawable/anh2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recyclerview/app/src/main/res/drawable/anh3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recyclerview/app/src/main/res/drawable/anh4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recyclerview/app/src/main/res/drawable/anh5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recyclerview/app/src/main/res/layout/item_book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recyclerview/app/src/main/res/layout/item_category.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_firebase/app/src/main/java/com/example/connect_firebase/HomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_firebase/app/src/main/java/com/example/connect_firebase/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_firebase/app/src/main/java/com/example/connect_firebase/SigninActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_firebase/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connect_firebase/app/src/main/res/layout/activity_signin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/androidTest/java/com/example/appcoin/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/java/com/example/appcoin/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/app/src/test/java/com/example/appcoin/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppCoin/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\imdat\.android\avd\Pixel_2_API_30_1.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ICZWCQ31eo0Zx8vAfs7SOpDtuJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ktra3/ktra3" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="KT3.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+        <option name="PROFILING_MODE" value="NOT_SET" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e882bdf0-556e-4a80-9b10-77545adef17c" name="Changes" comment="" />
+      <created>1669687554945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669687554945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
